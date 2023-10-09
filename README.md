@@ -1,2 +1,2 @@
 # oc.postmantest
-contianer image with postman test collections
+container image with postman test collections
