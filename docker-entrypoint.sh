@@ -7,5 +7,5 @@ echo "Running test on BASE_URL=$BASE_URL"
 for f in postman-collections/*.json 
 do 
   echo "Running collection $f"
-  newman run --env-var "base_url=$BASE_URL" $f
+  newman run --bail --env-var "base_url=$BASE_URL" $f
 done
