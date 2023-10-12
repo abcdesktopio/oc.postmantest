@@ -128,7 +128,7 @@
 				],
 				"body": {
 					"mode": "raw",
-					"raw": "{\n  \"width\": 1440,\n  \"height\": 819,\n  \"timezone\": \"Europe/Paris\",\n  \"hostname\": \"localhost\"\n}"
+					"raw": "{ \"width\": 1440, \"height\": 819, \"timezone\": \"Europe/Paris\", \"hostname\": \"localhost\" }"
 				},
 				"url": {
 					"raw": "{{base_url}}/API/composer/launchdesktop",
